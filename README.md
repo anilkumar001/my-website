@@ -2,6 +2,6 @@
 
 This is a really awesome website
 
-Edit on readme files.
+NOw editing in local
 
 From update-readme branch
